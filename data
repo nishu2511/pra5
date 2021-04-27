@@ -1,0 +1,30 @@
+{
+    "company": {
+        "employees": [{
+                "empID": "01",
+                "empName": "Shiv",
+                "empAge": 23
+            },
+            {
+                "empID": "02",
+                "empName": "Rudra",
+                "empAge": 22
+            },
+            {
+                "empID": "03",
+                "empName": "Mahesh",
+                "empAge": 25
+            },
+            {
+                "empID": "04",
+                "empName": "Kedar",
+                "empAge": 30
+            },
+            {
+                "empID": "05",
+                "empName": "Sati",
+                "empAge": 23
+            }
+        ]
+    }
+}
